@@ -12,41 +12,9 @@ Sparrowhawk is designed to maximise wingspan, build speed, and robustness while 
 - **Aerobatics:** flips and rolls with ease
 - **Build:** two printed parts and one sheet of A1 foamboard, which is enough for two wings
 
-## Parts
-
-### Printed
-
-| Part | File |
-| --- | --- |
-| Fuselage | [`stl/sparrowhawk-Fuselage.stl`](stl/sparrowhawk-Fuselage.stl) |
-| Lid | [`stl/sparrowhawk-Lid.stl`](stl/sparrowhawk-Lid.stl) |
-
-I printed my fuselage in PLA to maximise its robustness.
-
-### Foamboard
-
-One sheet of A1 foamboard (841 x 594mm). Each plane needs one wing and two wingtips, and you can cut two wings from a single sheet.
-
-### Electronics
-
-This is what mine is built with:
-
-| Part | Used |
-| --- | --- |
-| Motor | T-Motor V1507-6S 2700KV |
-| Prop | 5030 5 inch 2 blade |
-| ESC | 30A with BEC |
-| Battery | 3S 850mAh |
-| Servos | 2x 9g plastic servo |
-| Receiver | Cheap ELRS PWM receiver |
-| Transmitter | RadioMaster Pocket |
-| Linkages | RC pushrod set (available cheaply on Amazon) |
-
-Mine weighs 242g all-up. You can probably cut more weight by using lighter connectors inside the fuselage.
-
 ## Plans
 
-The wing and wingtips are cut from foamboard. All dimensions are in mm, and the sheet is A1.
+The plans include the full parts list, the foamboard cutting template for the wing and wingtips, and the CG position. All dimensions are in mm, and the sheet is A1.
 
 [![Plans](assets/plans.png)](plans/sparrowhawk_Plans.svg)
 
@@ -54,7 +22,7 @@ The full-size A1 plans are in [`plans/sparrowhawk_Plans.svg`](plans/sparrowhawk_
 
 ## Build
 
-1. Print the fuselage and lid.
+1. Print the [fuselage](stl/sparrowhawk-Fuselage.stl) and [lid](stl/sparrowhawk-Lid.stl).
 2. Cut one wing and two wingtips from foamboard using the plans.
 3. Cut the elevons free and hinge them back on with tape (also leave a layer of paper and bevel them).
 4. Attach the wingtips to the ends of the wing with glue gun.
